@@ -1,0 +1,17 @@
+C:\Users\kateryna.burtseva\Documents\CharpTrivial\Itera_test\Tests\Page\bin\Debug\Page.dll
+C:\Users\kateryna.burtseva\Documents\CharpTrivial\Itera_test\Tests\Page\bin\Debug\Page.pdb
+C:\Users\kateryna.burtseva\Documents\CharpTrivial\Itera_test\Tests\Page\bin\Debug\Properties.dll
+C:\Users\kateryna.burtseva\Documents\CharpTrivial\Itera_test\Tests\Page\bin\Debug\WebDriver.dll
+C:\Users\kateryna.burtseva\Documents\CharpTrivial\Itera_test\Tests\Page\bin\Debug\WebDriver.Support.dll
+C:\Users\kateryna.burtseva\Documents\CharpTrivial\Itera_test\Tests\Page\bin\Debug\RelevantCodes.ExtentReports.dll
+C:\Users\kateryna.burtseva\Documents\CharpTrivial\Itera_test\Tests\Page\bin\Debug\nunit.framework.dll
+C:\Users\kateryna.burtseva\Documents\CharpTrivial\Itera_test\Tests\Page\bin\Debug\Properties.pdb
+C:\Users\kateryna.burtseva\Documents\CharpTrivial\Itera_test\Tests\Page\bin\Debug\WebDriver.xml
+C:\Users\kateryna.burtseva\Documents\CharpTrivial\Itera_test\Tests\Page\bin\Debug\WebDriver.Support.xml
+C:\Users\kateryna.burtseva\Documents\CharpTrivial\Itera_test\Tests\Page\bin\Debug\nunit.framework.pdb
+C:\Users\kateryna.burtseva\Documents\CharpTrivial\Itera_test\Tests\Page\bin\Debug\nunit.framework.xml
+C:\Users\kateryna.burtseva\Documents\CharpTrivial\Itera_test\Tests\Page\obj\Debug\Page.csprojResolveAssemblyReference.cache
+C:\Users\kateryna.burtseva\Documents\CharpTrivial\Itera_test\Tests\Page\obj\Debug\Page.csproj.CoreCompileInputs.cache
+C:\Users\kateryna.burtseva\Documents\CharpTrivial\Itera_test\Tests\Page\obj\Debug\Page.csproj.CopyComplete
+C:\Users\kateryna.burtseva\Documents\CharpTrivial\Itera_test\Tests\Page\obj\Debug\Page.dll
+C:\Users\kateryna.burtseva\Documents\CharpTrivial\Itera_test\Tests\Page\obj\Debug\Page.pdb
